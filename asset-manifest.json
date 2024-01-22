@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/business-landing-page/static/css/main.97972e85.css",
-    "main.js": "/business-landing-page/static/js/main.eb3caec9.js",
+    "main.css": "/business-landing-page/static/css/main.217fe6c8.css",
+    "main.js": "/business-landing-page/static/js/main.c7e94ec6.js",
     "static/media/businessimg.jpg": "/business-landing-page/static/media/businessimg.bac1c15ccaf627613d3e.jpg",
     "static/media/home1.jpg": "/business-landing-page/static/media/home1.46bc2ce660be4b9cfabf.jpg",
     "static/media/business.jpg": "/business-landing-page/static/media/business.e44244c72aac63867d56.jpg",
     "static/media/skuscraper.jpg": "/business-landing-page/static/media/skuscraper.ba3348d57ae4928df144.jpg",
     "static/media/businesslogo.png": "/business-landing-page/static/media/businesslogo.eaa83620d79203b1e3da.png",
     "index.html": "/business-landing-page/index.html",
-    "main.97972e85.css.map": "/business-landing-page/static/css/main.97972e85.css.map",
-    "main.eb3caec9.js.map": "/business-landing-page/static/js/main.eb3caec9.js.map"
+    "main.217fe6c8.css.map": "/business-landing-page/static/css/main.217fe6c8.css.map",
+    "main.c7e94ec6.js.map": "/business-landing-page/static/js/main.c7e94ec6.js.map"
   },
   "entrypoints": [
-    "static/css/main.97972e85.css",
-    "static/js/main.eb3caec9.js"
+    "static/css/main.217fe6c8.css",
+    "static/js/main.c7e94ec6.js"
   ]
 }
